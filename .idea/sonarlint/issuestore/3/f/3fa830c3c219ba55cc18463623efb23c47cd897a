@@ -1,0 +1,12 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä†é¼ıÿÿÿÿ8Ô¶Àõò1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º§”À8Ö¶Àõò1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ä¤8¼…‰÷ò1
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ûõ›;8¤½‰÷ò1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(œû¿Ø8âºÀõò1
+c
+java:S1659"ADeclare "maxR" and all following declarations on a separate line.(…°úœşÿÿÿÿ8¡»Àõò1
+n
+java:S1871$"LThis branch's code block is the same as the block for the branch on line 35.(Î‹öìüÿÿÿÿ8àÂÅõò1
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(À¨Ï—ıÿÿÿÿ8µ»Àõò1

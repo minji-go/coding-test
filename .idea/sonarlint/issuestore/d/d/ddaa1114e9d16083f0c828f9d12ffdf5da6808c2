@@ -1,0 +1,11 @@
+
+ˆ	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÿùù§J$79229df3-a2eb-41e7-a3eb-4b565c75f1c9
+Œ	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØßŒÚJ$ecb6dce9-3ad8-4b28-8bc2-87e903c3e290
+Œ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÃŸÊJ$f969ceb9-0fab-46ad-bd52-6080c7787f6d
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Ý—ÇýÿÿÿÿJ$32289655-ee82-4efc-8c77-4f323b29a6db
+d
+java:S5411"(Use a primitive boolean expression here.(Ú ÀÏJ$648ef26c-b2ac-463d-be8e-eeee7e827731
+p
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(ñÛ‡ÛJ$e264cff5-8731-4637-9779-53d87129e840
+k	java:S106 "+Replace this use of System.out by a logger.(Ž³ð¸ûÿÿÿÿJ$6bf77ad8-fd31-4977-aad3-a2d38346925d

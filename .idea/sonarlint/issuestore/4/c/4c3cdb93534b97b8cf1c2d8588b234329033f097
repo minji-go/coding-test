@@ -1,0 +1,30 @@
+
+o
+java:S1104"MMake A a static final constant or non-public and provide accessors if needed.(Â­ ÿÿÿÿÿ8÷çÆĞó1
+q
+java:S1104"OMake row a static final constant or non-public and provide accessors if needed.(ü¼†«øÿÿÿÿ8‡èÆĞó1
+q
+java:S1104"OMake col a static final constant or non-public and provide accessors if needed.(ü¼†«øÿÿÿÿ8–èÆĞó1
+I
+java:S1444"'Make this "public static A" field final(Â­ ÿÿÿÿÿ8–èÆĞó1
+K
+java:S1444")Make this "public static row" field final(ü¼†«øÿÿÿÿ8–èÆĞó1
+K
+java:S1444")Make this "public static col" field final(ü¼†«øÿÿÿÿ8–èÆĞó1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‹ûÓÊşÿÿÿÿ8—èÆĞó1
+^
+java:S49736"<Strings and Boxed types should be compared using "equals()".(ÊÇÍ’üÿÿÿÿ8˜èÆĞó1
+^
+java:S4973T"<Strings and Boxed types should be compared using "equals()".(ÊÇÍ’üÿÿÿÿ8˜èÆĞó1
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ûõ›;8™èÆĞó1
+n
+java:S3008"LRename this field "A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â­ ÿÿÿÿÿ8ÇëÆĞó1
+C
+java:S1659"!Declare "col" on a separate line.(ü¼†«øÿÿÿÿ8ÇëÆĞó1
+?
+java:S2386"Make this member "protected".(Â­ ÿÿÿÿÿ8ÇëÆĞó1
+T	java:S106("9Replace this use of System.out or System.err by a logger.(ÈÒÎM8ŞëÆĞó1
+t
+java:S3776+"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(é²§øÿÿÿÿ8ŞëÆĞó1
+o
+java:S3776I"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(•Âéé8ãëÆĞó1

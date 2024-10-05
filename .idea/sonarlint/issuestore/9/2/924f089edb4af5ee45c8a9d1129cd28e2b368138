@@ -1,0 +1,17 @@
+
+i
+java:S16041"(Make this anonymous inner class a lambda(·ê¿úÿÿÿÿJ$52d46151-f1a1-407c-82e2-4fda600ac66e
+Œ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ì£‹J$b23d1e76-176f-4a59-bf5c-86f46969ef15
+Œ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€˜îþJ$7aa40efa-6445-486d-95ba-a3f9e4d8c9a0
+Œ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¡ìÍJ$d2685763-3eaa-4e06-b19b-d40ba50416af
+Œ	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ«Ã®J$7f004609-5def-46a9-9f1b-4da0797d00c5
+Œ	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ«Ã®J$eff10857-db7e-4068-b79a-b274da5045a3
+™	java:S135L"YReduce the total number of break and continue statements in this loop to use at most one.(çð­˜úÿÿÿÿJ$b0bd6980-5c18-4430-a52a-faac1b609eda
+‘
+java:S1149?"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›þöýÿÿÿÿJ$2eaabd78-13c5-4a16-b311-3ac6f68f2bfc
+z
+java:S1659">Declare "x" and all following declarations on a separate line.(ÊÉ±žJ$41b9710c-c6d3-4d8b-957d-7573f194cb4b
+k	java:S1069"+Replace this use of System.out by a logger.(Ž³ð¸ûÿÿÿÿJ$d5ee563f-b3d6-4f0a-9ca6-ea7299c3879a
+k	java:S106:"+Replace this use of System.out by a logger.(­ËÖþÿÿÿÿJ$6dcf6691-1f24-4118-a25a-9cd709373d03
+Ž
+java:S3776>"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(œ«Ã®J$3ab2bd32-1e77-4c70-a1eb-8415f09d2442

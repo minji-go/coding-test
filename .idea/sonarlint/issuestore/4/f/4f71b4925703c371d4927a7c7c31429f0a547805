@@ -1,0 +1,17 @@
+
+f	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åœ±–
+b	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(àÓÆÛ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•…œ›ýÿÿÿÿ
+b
+java:S3008
+"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î˜±ð
+b
+java:S3008
+"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î˜±ð
+b
+java:S3008
+"LRename this field "X" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î˜±ð
+T
+java:S1659
+">Declare "M" and all following declarations on a separate line.(î˜±ð
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(àØ¹Á

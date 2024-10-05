@@ -1,0 +1,22 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÇóëûÿÿÿÿ8Í’¼Óò1
+p
+java:S1104"NMake dx a static final constant or non-public and provide accessors if needed.(±ßòêûÿÿÿÿ8Ï’¼Óò1
+k
+java:S1104"NMake dy a static final constant or non-public and provide accessors if needed.(û—Ò8Ğ’¼Óò1
+J
+java:S1444"(Make this "public static dx" field final(±ßòêûÿÿÿÿ8Ò’¼Óò1
+E
+java:S1444"(Make this "public static dy" field final(û—Ò8Ó’¼Óò1
+n	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÊÅ“äøÿÿÿÿ8Ô’¼Óò1
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ûõ›;8Ö’¼Óò1
+?
+java:S2386"Make this member "protected".(±ßòêûÿÿÿÿ8¦”¼Óò1
+:
+java:S2386"Make this member "protected".(û—Ò8§”¼Óò1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(»ªã†8­”¼Óò1
+<
+java:S1659"Declare "y" on a separate line.(êœú8®”¼Óò1
+c
+java:S1659"ADeclare "minY" and all following declarations on a separate line.(Ã²¦ªùÿÿÿÿ8¯”¼Óò1

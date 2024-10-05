@@ -1,0 +1,49 @@
+
+‰
+java:S1104"MMake N a static final constant or non-public and provide accessors if needed.(ÁÌÆòJ$7f7ca6d5-06b7-4d43-9e71-5a00fb32f229
+‰
+java:S1104"MMake M a static final constant or non-public and provide accessors if needed.(ÁÌÆòJ$eeeb8988-0a24-46ed-83cc-3b9e921ea6e1
+‰
+java:S1104"MMake T a static final constant or non-public and provide accessors if needed.(ÁÌÆòJ$cc5f5700-8ff2-490a-b1c1-72653cbaa05d
+‹
+java:S1104"OMake arr a static final constant or non-public and provide accessors if needed.(Š÷ö˜J$d3d3dfec-204a-4a91-a78a-df6833b1560a
+
+java:S1104"SMake visited a static final constant or non-public and provide accessors if needed.(à¥ºÉJ$58702412-ac60-4757-b3f3-f3c785cc83aa
+Š
+java:S1104"NMake dr a static final constant or non-public and provide accessors if needed.(š¡¿æJ$a229c17e-2346-4e45-a134-35a55b332b1e
+Š
+java:S1104"NMake dc a static final constant or non-public and provide accessors if needed.(©¸‰J$6a92b237-dce6-414e-8b5d-38d7718c30e0
+c
+java:S1444"'Make this "public static N" field final(ÁÌÆòJ$9c3604a6-a297-4f70-86e1-7811cc271238
+c
+java:S1444"'Make this "public static M" field final(ÁÌÆòJ$161febb4-886d-48a8-bf1d-9000eccd91ed
+c
+java:S1444"'Make this "public static T" field final(ÁÌÆòJ$e45d2d1f-e220-4221-a0b9-7aa39094970b
+e
+java:S1444")Make this "public static arr" field final(Š÷ö˜J$25dc6ea2-e5ac-401d-be26-2528bd26cac4
+i
+java:S1444"-Make this "public static visited" field final(à¥ºÉJ$32028dce-1675-4c6e-999e-a5f2ae3634dc
+d
+java:S1444"(Make this "public static dr" field final(š¡¿æJ$cf76a75e-3494-4f32-a060-ba60711f6142
+d
+java:S1444"(Make this "public static dc" field final(©¸‰J$8ddad19c-3245-4447-ac82-3bdd04fab05c
+™	java:S135,"YReduce the total number of break and continue statements in this loop to use at most one.(ı­ÏüÿÿÿÿJ$d2325597-855b-4f46-b823-571fd9561971
+ˆ
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÌÆòJ$d5ed15f3-bf2f-4c97-9985-be4eab0e477f
+ˆ
+java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÌÆòJ$7969e923-3e0a-4e40-80b1-18ed5ad56d1d
+ˆ
+java:S3008"LRename this field "T" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÌÆòJ$b314dd23-f61f-4b0c-8327-fa7d63204ffd
+z
+java:S1659">Declare "M" and all following declarations on a separate line.(ÁÌÆòJ$509433eb-972f-4c10-9360-b2950aaf3979
+Y
+java:S2386"Make this member "protected".(š¡¿æJ$19ffb5a8-3615-441c-91bc-0fb2b7faa717
+Y
+java:S2386"Make this member "protected".(©¸‰J$d48981a8-426b-4d1e-92f3-d7b43da7430d
+Y
+java:S2386"Make member "arr" "protected".(£Û?J$6cd92c8b-9736-4d77-94e9-374bd7443659
+c
+java:S2386""Make member "visited" "protected".(Šú–ıùÿÿÿÿJ$81958212-811c-4925-b3b9-f8c47d59c748
+f	java:S106"+Replace this use of System.out by a logger.(–ŠêJ$e16eff04-05d6-496b-9ab6-a7dce1f8ade8
+
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ìª“J$3ca97d36-c2ba-4fa9-8346-f22f1ba63ac6
